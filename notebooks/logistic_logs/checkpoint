@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-checkpoint-55000"
+all_model_checkpoint_paths: "model-checkpoint-52800"
+all_model_checkpoint_paths: "model-checkpoint-53350"
+all_model_checkpoint_paths: "model-checkpoint-53900"
+all_model_checkpoint_paths: "model-checkpoint-54450"
+all_model_checkpoint_paths: "model-checkpoint-55000"
