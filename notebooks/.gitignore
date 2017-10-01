@@ -1,0 +1,4 @@
+# exclude log files
+logistic_logs
+/logistic_logs
+
